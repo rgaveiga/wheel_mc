@@ -1,3 +1,3 @@
 from .wheel_mc import Simulation
 
-__version__="0.5"
+__version__ = "0.5"
