@@ -1,4 +1,4 @@
-from pydantic import BaseModel, Field, field_validator, model_validator
+from pydantic import BaseModel, Field, field_validator, model_validator, ConfigDict
 from numpy import array, ndarray
 
 
@@ -92,3 +92,5 @@ class SimulationData(BaseModel):
     open_puts: ndarray = array([])
     exercised_calls: ndarray = array([])
     exercised_puts: ndarray = array([])
+    
+    model_config = ConfigDict(arbitrary_types_allowed=True)
