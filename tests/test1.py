@@ -17,12 +17,13 @@ inputs = InputData(
     put_strike_factor=0.05,
     covered_calls_deadline=7,
     write_puts_if_no_calls=True,
-    save_log=True)
+    save_log=True,
+)
 
-start=time.time()
-ret=run_simulation(inputs)
-end=time.time()
-print("Time: %d ms" % ((end-start)*1000))
+start = time.time()
+ret = run_simulation(inputs)
+end = time.time()
+print("Time: %d ms" % ((end - start) * 1000))
 
 print("Missed trades: %d" % ret.missed_trades)
 print("Open calls: %d" % ret.open_calls)
