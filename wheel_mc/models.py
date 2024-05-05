@@ -1,5 +1,7 @@
-from pydantic import BaseModel, Field, field_validator, model_validator, ConfigDict
+from pydantic import BaseModel, Field, field_validator, ConfigDict
 from numpy import array, ndarray
+
+_DAYS_PER_PERIOD = 21
 
 
 class InputData(BaseModel):
@@ -34,8 +36,7 @@ class InputData(BaseModel):
         (strike is 5% OTM).
     covered_calls_deadline : integer, optional
         Maximum number of days in a trading month after which calls are not
-        more written. Default is 0, meaning that calls can be written until the
-        maturity.
+        more written. Default is the number of days in a trading period.
     write_puts_if_no_calls : boolean, optional
         Puts are sold in a period where calls are supposed to be the active
         transaction but the condition for selling calls was not fulfilled
@@ -54,9 +55,19 @@ class InputData(BaseModel):
     risk_free_rate: float = Field(default=0.01, gt=0.0)
     call_strike_factor: float = 0.05
     put_strike_factor: float = 0.05
-    covered_calls_deadline: int = Field(default=0, ge=0)
+    covered_calls_deadline: int = _DAYS_PER_PERIOD
     write_puts_if_no_calls: bool = False
     save_log: bool = False
+
+    @field_validator("covered_calls_deadline")
+    def validade_deadline(cls, val: int) -> int:
+        if val < 1 or val > _DAYS_PER_PERIOD:
+            raise ValueError(
+                "Deadline for covered calls must be between 1 and %d days!"
+                % _DAYS_PER_PERIOD
+            )
+
+        return val
 
 
 class SimulationData(BaseModel):
@@ -92,5 +103,5 @@ class SimulationData(BaseModel):
     open_puts: ndarray = array([])
     exercised_calls: ndarray = array([])
     exercised_puts: ndarray = array([])
-    
+
     model_config = ConfigDict(arbitrary_types_allowed=True)
