@@ -62,7 +62,7 @@ def run_simulation(inputs: InputData | dict) -> SimulationData:
                 2D Numpy array containing the money in the trading account.
             stock : array
                 2D Numpy array containing the number of shares owned by the trader.
-            money_spent : array
+            invested_money : array
                 Numpy array containing the money spent by the trader to cover the
                 assigned puts at the end of trading paths.
             missed_trades : array
@@ -89,7 +89,7 @@ def run_simulation(inputs: InputData | dict) -> SimulationData:
     open_puts = zeros(inputs.number_of_trading_paths, int)
     exercised_calls = zeros(inputs.number_of_trading_paths, int)
     exercised_puts = zeros(inputs.number_of_trading_paths, int)
-    money_spent = full(inputs.number_of_trading_paths, inputs.initial_money)
+    invested_money = full(inputs.number_of_trading_paths, inputs.initial_money)
     minimum_price = (
         inputs.initial_stock_price * inputs.minimum_price_factor
         if inputs.initial_stock_price * inputs.minimum_price_factor > 0.01
@@ -276,7 +276,7 @@ def run_simulation(inputs: InputData | dict) -> SimulationData:
                         strlog += "         Stock purchase price: %.2f\n" % xp
 
                     if money[i, j] < 0.0:
-                        money_spent[i] -= money[i, j]
+                        invested_money[i] -= money[i, j]
 
                         if inputs.save_log:
                             strlog += "         Money from pocket: %.2f\n" % (
@@ -297,7 +297,7 @@ def run_simulation(inputs: InputData | dict) -> SimulationData:
 
             if inputs.save_log:
                 strlog += "      ------\n"
-                strlog += "      Invested money: %.2f\n" % money_spent[i]
+                strlog += "      Invested money: %.2f\n" % invested_money[i]
                 strlog += "      Money in account: %.2f\n" % money[i, j]
                 strlog += "      Number of shares: %d\n" % stock[i, j]
 
@@ -320,7 +320,7 @@ def run_simulation(inputs: InputData | dict) -> SimulationData:
             stock_prices=stock_prices,
             money=money,
             stock=stock,
-            money_spent=money,
+            invested_money=invested_money,
             missed_trades=missed_trades,
             open_calls=open_calls,
             open_puts=open_puts,

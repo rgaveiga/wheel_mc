@@ -1,0 +1,2198 @@
+-------- LOG --------
+
+TRADING PATH #0
+   PERIOD #0
+      Spot price at day 1: 25.00
+      ------
+      Cash-secured put is written!
+         Days to maturity: 20
+         Put strike: 23.75
+         Put premium: 0.13
+      ------
+      Spot price at maturity: 27.31
+      ------
+      Invested money: 0.00
+      Money in account: 13.00
+      Number of shares: 0
+      Total position (money+stock): 13.00
+   PERIOD #1
+      Spot price at day 1: 27.53
+      ------
+      Cash-secured put is written!
+         Days to maturity: 20
+         Put strike: 26.15
+         Put premium: 0.14
+      ------
+      Spot price at maturity: 27.70
+      ------
+      Invested money: 0.00
+      Money in account: 27.00
+      Number of shares: 0
+      Total position (money+stock): 27.00
+   PERIOD #2
+      Spot price at day 1: 27.11
+      ------
+      Cash-secured put is written!
+         Days to maturity: 20
+         Put strike: 25.75
+         Put premium: 0.14
+      ------
+      Spot price at maturity: 25.25
+      ------
+      Put was exercised!
+         Stock purchase price: 25.75
+         Money from pocket: 2534.00
+      ------
+      Invested money: 2534.00
+      Money in account: 0.00
+      Number of shares: 100
+      Purchase prices: [25.75]
+      Stock price: 25.25
+      Total stock position: 2525.00
+      Total position (money+stock): 2525.00
+   PERIOD #3
+      Spot price at day 1: 24.71
+      ------
+      Covered call is written!
+         Spot price: 24.71
+         Days to maturity: 20
+         Call strike: 25.95
+         Call premium: 0.16
+         Stock purchase price: 25.75
+      ------
+      Spot price at maturity: 23.24
+      ------
+      Invested money: 2534.00
+      Money in account: 16.00
+      Number of shares: 100
+      Purchase prices: [25.75]
+      Stock price: 23.24
+      Total stock position: 2324.00
+      Total position (money+stock): 2340.00
+   PERIOD #4
+      Spot price at day 1: 23.68
+      ------
+      Covered call is written!
+         Spot price: 24.61
+         Days to maturity: 18
+         Call strike: 25.84
+         Call premium: 0.14
+         Stock purchase price: 25.75
+      ------
+      Spot price at maturity: 25.95
+      ------
+      Call was exercised!
+         Stock sale price: 25.84
+         Stock purchase price: 25.75
+      ------
+      Invested money: 2534.00
+      Money in account: 2614.00
+      Number of shares: 0
+      Total position (money+stock): 2614.00
+   PERIOD #5
+      Spot price at day 1: 26.59
+      ------
+      Cash-secured put is written!
+         Days to maturity: 20
+         Put strike: 25.26
+         Put premium: 0.14
+      ------
+      Spot price at maturity: 29.75
+      ------
+      Invested money: 2534.00
+      Money in account: 2628.00
+      Number of shares: 0
+      Total position (money+stock): 2628.00
+   PERIOD #6
+      Spot price at day 1: 29.59
+      ------
+      Cash-secured put is written!
+         Days to maturity: 20
+         Put strike: 28.11
+         Put premium: 0.16
+      ------
+      Spot price at maturity: 31.07
+      ------
+      Invested money: 2534.00
+      Money in account: 2644.00
+      Number of shares: 0
+      Total position (money+stock): 2644.00
+   PERIOD #7
+      Spot price at day 1: 31.51
+      ------
+      Cash-secured put is written!
+         Days to maturity: 20
+         Put strike: 29.93
+         Put premium: 0.17
+      ------
+      Spot price at maturity: 29.76
+      ------
+      Put was exercised!
+         Stock purchase price: 29.93
+         Money from pocket: 332.00
+      ------
+      Invested money: 2866.00
+      Money in account: 0.00
+      Number of shares: 100
+      Purchase prices: [29.93]
+      Stock price: 29.76
+      Total stock position: 2976.00
+      Total position (money+stock): 2976.00
+   PERIOD #8
+      Spot price at day 1: 30.21
+      ------
+      Covered call is written!
+         Spot price: 30.21
+         Days to maturity: 20
+         Call strike: 31.72
+         Call premium: 0.19
+         Stock purchase price: 29.93
+      ------
+      Spot price at maturity: 27.33
+      ------
+      Invested money: 2866.00
+      Money in account: 19.00
+      Number of shares: 100
+      Purchase prices: [29.93]
+      Stock price: 27.33
+      Total stock position: 2733.00
+      Total position (money+stock): 2752.00
+   PERIOD #9
+      Spot price at day 1: 27.86
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 25.84
+         Put premium: 0.09
+      ------
+      Spot price at maturity: 28.84
+      ------
+      Invested money: 2866.00
+      Money in account: 28.00
+      Number of shares: 100
+      Purchase prices: [29.93]
+      Stock price: 28.84
+      Total stock position: 2884.00
+      Total position (money+stock): 2912.00
+   PERIOD #10
+      Spot price at day 1: 29.17
+      ------
+      Covered call is written!
+         Spot price: 29.17
+         Days to maturity: 20
+         Call strike: 30.63
+         Call premium: 0.18
+         Stock purchase price: 29.93
+      ------
+      Spot price at maturity: 28.15
+      ------
+      Invested money: 2866.00
+      Money in account: 46.00
+      Number of shares: 100
+      Purchase prices: [29.93]
+      Stock price: 28.15
+      Total stock position: 2815.00
+      Total position (money+stock): 2861.00
+   PERIOD #11
+      Spot price at day 1: 27.98
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 26.21
+         Put premium: 0.09
+      ------
+      Spot price at maturity: 26.74
+      ------
+      Invested money: 2866.00
+      Money in account: 55.00
+      Number of shares: 100
+      Purchase prices: [29.93]
+      Stock price: 26.74
+      Total stock position: 2674.00
+      Total position (money+stock): 2729.00
+   PERIOD #12
+      Spot price at day 1: 26.79
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 24.61
+         Put premium: 0.08
+      ------
+      Spot price at maturity: 24.78
+      ------
+      Invested money: 2866.00
+      Money in account: 63.00
+      Number of shares: 100
+      Purchase prices: [29.93]
+      Stock price: 24.78
+      Total stock position: 2478.00
+      Total position (money+stock): 2541.00
+   PERIOD #13
+      Spot price at day 1: 24.90
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 23.46
+         Put premium: 0.08
+      ------
+      Spot price at maturity: 26.27
+      ------
+      Invested money: 2866.00
+      Money in account: 71.00
+      Number of shares: 100
+      Purchase prices: [29.93]
+      Stock price: 26.27
+      Total stock position: 2627.00
+      Total position (money+stock): 2698.00
+   PERIOD #14
+      Spot price at day 1: 26.22
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 25.05
+         Put premium: 0.08
+      ------
+      Spot price at maturity: 25.58
+      ------
+      Invested money: 2866.00
+      Money in account: 79.00
+      Number of shares: 100
+      Purchase prices: [29.93]
+      Stock price: 25.58
+      Total stock position: 2558.00
+      Total position (money+stock): 2637.00
+   PERIOD #15
+      Spot price at day 1: 25.61
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 23.71
+         Put premium: 0.08
+      ------
+      Spot price at maturity: 24.12
+      ------
+      Invested money: 2866.00
+      Money in account: 87.00
+      Number of shares: 100
+      Purchase prices: [29.93]
+      Stock price: 24.12
+      Total stock position: 2412.00
+      Total position (money+stock): 2499.00
+   PERIOD #16
+      Spot price at day 1: 23.59
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 22.79
+         Put premium: 0.08
+      ------
+      Spot price at maturity: 22.30
+      ------
+      Put was exercised!
+         Stock purchase price: 22.79
+         Money from pocket: 2184.00
+      ------
+      Invested money: 5050.00
+      Money in account: 0.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 22.30
+      Total stock position: 4460.00
+      Total position (money+stock): 4460.00
+   PERIOD #17
+      Spot price at day 1: 22.17
+      ------
+      Covered call is written!
+         Spot price: 22.17
+         Days to maturity: 20
+         Call strike: 23.28
+         Call premium: 0.14
+         Stock purchase price: 22.79
+      ------
+      Spot price at maturity: 22.09
+      ------
+      Invested money: 5050.00
+      Money in account: 14.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 22.09
+      Total stock position: 4418.00
+      Total position (money+stock): 4432.00
+   PERIOD #18
+      Spot price at day 1: 22.03
+      ------
+      Covered call is written!
+         Spot price: 22.03
+         Days to maturity: 20
+         Call strike: 23.13
+         Call premium: 0.14
+         Stock purchase price: 22.79
+      ------
+      Spot price at maturity: 20.62
+      ------
+      Invested money: 5050.00
+      Money in account: 28.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 20.62
+      Total stock position: 4124.00
+      Total position (money+stock): 4152.00
+   PERIOD #19
+      Spot price at day 1: 20.84
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 19.30
+         Put premium: 0.06
+      ------
+      Spot price at maturity: 21.59
+      ------
+      Invested money: 5050.00
+      Money in account: 34.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 21.59
+      Total stock position: 4318.00
+      Total position (money+stock): 4352.00
+   PERIOD #20
+      Spot price at day 1: 21.84
+      ------
+      Covered call is written!
+         Spot price: 21.84
+         Days to maturity: 20
+         Call strike: 22.93
+         Call premium: 0.14
+         Stock purchase price: 22.79
+      ------
+      Spot price at maturity: 20.85
+      ------
+      Invested money: 5050.00
+      Money in account: 48.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 20.85
+      Total stock position: 4170.00
+      Total position (money+stock): 4218.00
+   PERIOD #21
+      Spot price at day 1: 20.55
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 19.61
+         Put premium: 0.07
+      ------
+      Spot price at maturity: 20.11
+      ------
+      Invested money: 5050.00
+      Money in account: 55.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 20.11
+      Total stock position: 4022.00
+      Total position (money+stock): 4077.00
+   PERIOD #22
+      Spot price at day 1: 19.99
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 18.52
+         Put premium: 0.06
+      ------
+      Spot price at maturity: 20.09
+      ------
+      Invested money: 5050.00
+      Money in account: 61.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 20.09
+      Total stock position: 4018.00
+      Total position (money+stock): 4079.00
+   PERIOD #23
+      Spot price at day 1: 19.98
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 19.09
+         Put premium: 0.06
+      ------
+      Spot price at maturity: 20.74
+      ------
+      Invested money: 5050.00
+      Money in account: 67.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 20.74
+      Total stock position: 4148.00
+      Total position (money+stock): 4215.00
+   PERIOD #24
+      Spot price at day 1: 20.65
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 18.94
+         Put premium: 0.06
+      ------
+      Spot price at maturity: 19.36
+      ------
+      Invested money: 5050.00
+      Money in account: 73.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 19.36
+      Total stock position: 3872.00
+      Total position (money+stock): 3945.00
+   PERIOD #25
+      Spot price at day 1: 19.14
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 17.95
+         Put premium: 0.06
+      ------
+      Spot price at maturity: 18.45
+      ------
+      Invested money: 5050.00
+      Money in account: 79.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 18.45
+      Total stock position: 3690.00
+      Total position (money+stock): 3769.00
+   PERIOD #26
+      Spot price at day 1: 18.70
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 17.58
+         Put premium: 0.06
+      ------
+      Spot price at maturity: 17.61
+      ------
+      Invested money: 5050.00
+      Money in account: 85.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 17.61
+      Total stock position: 3522.00
+      Total position (money+stock): 3607.00
+   PERIOD #27
+      Spot price at day 1: 17.75
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 16.84
+         Put premium: 0.06
+      ------
+      Spot price at maturity: 16.76
+      ------
+      Put was exercised!
+         Stock purchase price: 16.84
+         Money from pocket: 1593.00
+      ------
+      Invested money: 6643.00
+      Money in account: 0.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.84]
+      Stock price: 16.76
+      Total stock position: 5028.00
+      Total position (money+stock): 5028.00
+   PERIOD #28
+      Spot price at day 1: 16.67
+      ------
+      Covered call is written!
+         Spot price: 16.67
+         Days to maturity: 20
+         Call strike: 17.50
+         Call premium: 0.11
+         Stock purchase price: 16.84
+      ------
+      Spot price at maturity: 14.70
+      ------
+      Invested money: 6643.00
+      Money in account: 11.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.84]
+      Stock price: 14.70
+      Total stock position: 4410.00
+      Total position (money+stock): 4421.00
+   PERIOD #29
+      Spot price at day 1: 14.63
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 13.67
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 14.44
+      ------
+      Invested money: 6643.00
+      Money in account: 16.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.84]
+      Stock price: 14.44
+      Total stock position: 4332.00
+      Total position (money+stock): 4348.00
+   PERIOD #30
+      Spot price at day 1: 14.32
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 13.42
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 14.94
+      ------
+      Invested money: 6643.00
+      Money in account: 20.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.84]
+      Stock price: 14.94
+      Total stock position: 4482.00
+      Total position (money+stock): 4502.00
+   PERIOD #31
+      Spot price at day 1: 14.50
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 13.79
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 13.28
+      ------
+      Put was exercised!
+         Stock purchase price: 13.79
+         Money from pocket: 1354.00
+      ------
+      Invested money: 7997.00
+      Money in account: 0.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.79]
+      Stock price: 13.28
+      Total stock position: 5312.00
+      Total position (money+stock): 5312.00
+   PERIOD #32
+      Spot price at day 1: 12.96
+      ------
+      Covered call is written!
+         Spot price: 13.15
+         Days to maturity: 14
+         Call strike: 13.81
+         Call premium: 0.05
+         Stock purchase price: 13.79
+      ------
+      Spot price at maturity: 13.43
+      ------
+      Invested money: 7997.00
+      Money in account: 5.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.79]
+      Stock price: 13.43
+      Total stock position: 5372.00
+      Total position (money+stock): 5377.00
+   PERIOD #33
+      Spot price at day 1: 13.13
+      ------
+      Covered call is written!
+         Spot price: 13.13
+         Days to maturity: 20
+         Call strike: 13.79
+         Call premium: 0.08
+         Stock purchase price: 13.79
+      ------
+      Spot price at maturity: 13.47
+      ------
+      Invested money: 7997.00
+      Money in account: 13.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.79]
+      Stock price: 13.47
+      Total stock position: 5388.00
+      Total position (money+stock): 5401.00
+   PERIOD #34
+      Spot price at day 1: 13.70
+      ------
+      Covered call is written!
+         Spot price: 13.70
+         Days to maturity: 20
+         Call strike: 14.38
+         Call premium: 0.09
+         Stock purchase price: 13.79
+      ------
+      Spot price at maturity: 13.15
+      ------
+      Invested money: 7997.00
+      Money in account: 22.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.79]
+      Stock price: 13.15
+      Total stock position: 5260.00
+      Total position (money+stock): 5282.00
+   PERIOD #35
+      Spot price at day 1: 12.78
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 11.52
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 12.54
+      ------
+      Invested money: 7997.00
+      Money in account: 26.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.79]
+      Stock price: 12.54
+      Total stock position: 5016.00
+      Total position (money+stock): 5042.00
+   PERIOD #36
+      Spot price at day 1: 12.65
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 11.76
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 12.03
+      ------
+      Invested money: 7997.00
+      Money in account: 30.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.79]
+      Stock price: 12.03
+      Total stock position: 4812.00
+      Total position (money+stock): 4842.00
+   PERIOD #37
+      Spot price at day 1: 11.98
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 11.31
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 11.47
+      ------
+      Invested money: 7997.00
+      Money in account: 34.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.79]
+      Stock price: 11.47
+      Total stock position: 4588.00
+      Total position (money+stock): 4622.00
+   PERIOD #38
+      Spot price at day 1: 11.41
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 11.10
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 11.95
+      ------
+      Invested money: 7997.00
+      Money in account: 38.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.79]
+      Stock price: 11.95
+      Total stock position: 4780.00
+      Total position (money+stock): 4818.00
+   PERIOD #39
+      Spot price at day 1: 11.96
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 11.11
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 12.48
+      ------
+      Invested money: 7997.00
+      Money in account: 42.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.79]
+      Stock price: 12.48
+      Total stock position: 4992.00
+      Total position (money+stock): 5034.00
+   PERIOD #40
+      Spot price at day 1: 12.52
+      ------
+      Covered call is written!
+         Spot price: 13.11
+         Days to maturity: 14
+         Call strike: 13.77
+         Call premium: 0.05
+         Stock purchase price: 13.79
+      ------
+      Spot price at maturity: 11.62
+      ------
+      Invested money: 7997.00
+      Money in account: 47.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.79]
+      Stock price: 11.62
+      Total stock position: 4648.00
+      Total position (money+stock): 4695.00
+   PERIOD #41
+      Spot price at day 1: 11.64
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 10.99
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 10.99
+      ------
+      Put was exercised!
+         Stock purchase price: 10.99
+         Money from pocket: 1048.00
+      ------
+      Invested money: 9045.00
+      Money in account: 0.00
+      Number of shares: 500
+      Purchase prices: [29.93, 22.79, 16.84, 13.79, 10.99]
+      Stock price: 10.99
+      Total stock position: 5495.00
+      Total position (money+stock): 5495.00
+   PERIOD #42
+      Spot price at day 1: 11.00
+      ------
+      Covered call is written!
+         Spot price: 11.00
+         Days to maturity: 20
+         Call strike: 11.55
+         Call premium: 0.07
+         Stock purchase price: 10.99
+      ------
+      Spot price at maturity: 10.61
+      ------
+      Invested money: 9045.00
+      Money in account: 7.00
+      Number of shares: 500
+      Purchase prices: [29.93, 22.79, 16.84, 13.79, 10.99]
+      Stock price: 10.61
+      Total stock position: 5305.00
+      Total position (money+stock): 5312.00
+   PERIOD #43
+      Spot price at day 1: 10.64
+      ------
+      Covered call is written!
+         Spot price: 10.64
+         Days to maturity: 20
+         Call strike: 11.17
+         Call premium: 0.07
+         Stock purchase price: 10.99
+      ------
+      Spot price at maturity: 10.55
+      ------
+      Invested money: 9045.00
+      Money in account: 14.00
+      Number of shares: 500
+      Purchase prices: [29.93, 22.79, 16.84, 13.79, 10.99]
+      Stock price: 10.55
+      Total stock position: 5275.00
+      Total position (money+stock): 5289.00
+   PERIOD #44
+      Spot price at day 1: 10.56
+      ------
+      Covered call is written!
+         Spot price: 10.56
+         Days to maturity: 20
+         Call strike: 11.09
+         Call premium: 0.07
+         Stock purchase price: 10.99
+      ------
+      Spot price at maturity: 11.51
+      ------
+      Call was exercised!
+         Stock sale price: 11.09
+         Stock purchase price: 10.99
+      ------
+      Invested money: 9045.00
+      Money in account: 1130.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.79]
+      Stock price: 11.51
+      Total stock position: 4604.00
+      Total position (money+stock): 5734.00
+   PERIOD #45
+      Spot price at day 1: 11.55
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 11.16
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 12.36
+      ------
+      Invested money: 9045.00
+      Money in account: 1134.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.79]
+      Stock price: 12.36
+      Total stock position: 4944.00
+      Total position (money+stock): 6078.00
+   PERIOD #46
+      Spot price at day 1: 12.36
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 12.28
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 13.13
+      ------
+      Invested money: 9045.00
+      Money in account: 1138.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.79]
+      Stock price: 13.13
+      Total stock position: 5252.00
+      Total position (money+stock): 6390.00
+   PERIOD #47
+      Spot price at day 1: 13.25
+      ------
+      Covered call is written!
+         Spot price: 13.25
+         Days to maturity: 20
+         Call strike: 13.91
+         Call premium: 0.08
+         Stock purchase price: 13.79
+      ------
+      Spot price at maturity: 13.33
+      ------
+      Invested money: 9045.00
+      Money in account: 1146.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.79]
+      Stock price: 13.33
+      Total stock position: 5332.00
+      Total position (money+stock): 6478.00
+   PERIOD #48
+      Spot price at day 1: 13.32
+      ------
+      Covered call is written!
+         Spot price: 13.32
+         Days to maturity: 20
+         Call strike: 13.99
+         Call premium: 0.08
+         Stock purchase price: 13.79
+      ------
+      Spot price at maturity: 13.30
+      ------
+      Invested money: 9045.00
+      Money in account: 1154.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.79]
+      Stock price: 13.30
+      Total stock position: 5320.00
+      Total position (money+stock): 6474.00
+   PERIOD #49
+      Spot price at day 1: 13.21
+      ------
+      Covered call is written!
+         Spot price: 13.21
+         Days to maturity: 20
+         Call strike: 13.87
+         Call premium: 0.08
+         Stock purchase price: 13.79
+      ------
+      Spot price at maturity: 14.10
+      ------
+      Call was exercised!
+         Stock sale price: 13.87
+         Stock purchase price: 13.79
+      ------
+      Invested money: 9045.00
+      Money in account: 2549.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.84]
+      Stock price: 14.10
+      Total stock position: 4230.00
+      Total position (money+stock): 6779.00
+   PERIOD #50
+      Spot price at day 1: 13.97
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 13.61
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 14.26
+      ------
+      Invested money: 9045.00
+      Money in account: 2553.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.84]
+      Stock price: 14.26
+      Total stock position: 4278.00
+      Total position (money+stock): 6831.00
+   PERIOD #51
+      Spot price at day 1: 14.00
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 13.15
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 12.97
+      ------
+      Put was exercised!
+         Stock purchase price: 13.15
+      ------
+      Invested money: 9045.00
+      Money in account: 1242.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 16.84, 13.15]
+      Stock price: 12.97
+      Total stock position: 5188.00
+      Total position (money+stock): 6430.00
+   PERIOD #52
+      Spot price at day 1: 12.70
+      ------
+      Covered call is written!
+         Spot price: 12.70
+         Days to maturity: 20
+         Call strike: 13.34
+         Call premium: 0.08
+         Stock purchase price: 13.15
+      ------
+      Spot price at maturity: 13.73
+      ------
+      Call was exercised!
+         Stock sale price: 13.34
+         Stock purchase price: 13.15
+      ------
+      Invested money: 9045.00
+      Money in account: 2584.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.84]
+      Stock price: 13.73
+      Total stock position: 4119.00
+      Total position (money+stock): 6703.00
+   PERIOD #53
+      Spot price at day 1: 13.47
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 13.74
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 14.52
+      ------
+      Invested money: 9045.00
+      Money in account: 2589.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.84]
+      Stock price: 14.52
+      Total stock position: 4356.00
+      Total position (money+stock): 6945.00
+   PERIOD #54
+      Spot price at day 1: 14.50
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 13.78
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 14.45
+      ------
+      Invested money: 9045.00
+      Money in account: 2594.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.84]
+      Stock price: 14.45
+      Total stock position: 4335.00
+      Total position (money+stock): 6929.00
+   PERIOD #55
+      Spot price at day 1: 14.71
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 14.22
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 16.26
+      ------
+      Invested money: 9045.00
+      Money in account: 2599.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.84]
+      Stock price: 16.26
+      Total stock position: 4878.00
+      Total position (money+stock): 7477.00
+   PERIOD #56
+      Spot price at day 1: 16.34
+      ------
+      Covered call is written!
+         Spot price: 16.34
+         Days to maturity: 20
+         Call strike: 17.16
+         Call premium: 0.10
+         Stock purchase price: 16.84
+      ------
+      Spot price at maturity: 17.23
+      ------
+      Call was exercised!
+         Stock sale price: 17.16
+         Stock purchase price: 16.84
+      ------
+      Invested money: 9045.00
+      Money in account: 4325.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 17.23
+      Total stock position: 3446.00
+      Total position (money+stock): 7771.00
+   PERIOD #57
+      Spot price at day 1: 17.10
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 15.83
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 17.18
+      ------
+      Invested money: 9045.00
+      Money in account: 4330.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 17.18
+      Total stock position: 3436.00
+      Total position (money+stock): 7766.00
+   PERIOD #58
+      Spot price at day 1: 16.93
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 16.19
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 17.16
+      ------
+      Invested money: 9045.00
+      Money in account: 4335.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 17.16
+      Total stock position: 3432.00
+      Total position (money+stock): 7767.00
+   PERIOD #59
+      Spot price at day 1: 16.92
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 16.96
+         Put premium: 0.06
+      ------
+      Spot price at maturity: 16.80
+      ------
+      Put was exercised!
+         Stock purchase price: 16.96
+      ------
+      Invested money: 9045.00
+      Money in account: 2645.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 16.80
+      Total stock position: 5040.00
+      Total position (money+stock): 7685.00
+   PERIOD #60
+      Spot price at day 1: 16.82
+      ------
+      Covered call is written!
+         Spot price: 16.82
+         Days to maturity: 20
+         Call strike: 17.66
+         Call premium: 0.11
+         Stock purchase price: 16.96
+      ------
+      Spot price at maturity: 16.86
+      ------
+      Invested money: 9045.00
+      Money in account: 2656.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 16.86
+      Total stock position: 5058.00
+      Total position (money+stock): 7714.00
+   PERIOD #61
+      Spot price at day 1: 16.74
+      ------
+      Covered call is written!
+         Spot price: 16.74
+         Days to maturity: 20
+         Call strike: 17.58
+         Call premium: 0.11
+         Stock purchase price: 16.96
+      ------
+      Spot price at maturity: 16.28
+      ------
+      Invested money: 9045.00
+      Money in account: 2667.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 16.28
+      Total stock position: 4884.00
+      Total position (money+stock): 7551.00
+   PERIOD #62
+      Spot price at day 1: 16.35
+      ------
+      Covered call is written!
+         Spot price: 16.35
+         Days to maturity: 20
+         Call strike: 17.17
+         Call premium: 0.10
+         Stock purchase price: 16.96
+      ------
+      Spot price at maturity: 14.77
+      ------
+      Invested money: 9045.00
+      Money in account: 2677.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 14.77
+      Total stock position: 4431.00
+      Total position (money+stock): 7108.00
+   PERIOD #63
+      Spot price at day 1: 14.76
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 14.33
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 14.67
+      ------
+      Invested money: 9045.00
+      Money in account: 2682.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 14.67
+      Total stock position: 4401.00
+      Total position (money+stock): 7083.00
+   PERIOD #64
+      Spot price at day 1: 14.78
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 13.96
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 15.48
+      ------
+      Invested money: 9045.00
+      Money in account: 2687.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 15.48
+      Total stock position: 4644.00
+      Total position (money+stock): 7331.00
+   PERIOD #65
+      Spot price at day 1: 15.36
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 15.03
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 16.94
+      ------
+      Invested money: 9045.00
+      Money in account: 2692.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 16.94
+      Total stock position: 5082.00
+      Total position (money+stock): 7774.00
+   PERIOD #66
+      Spot price at day 1: 16.87
+      ------
+      Covered call is written!
+         Spot price: 16.87
+         Days to maturity: 20
+         Call strike: 17.71
+         Call premium: 0.11
+         Stock purchase price: 16.96
+      ------
+      Spot price at maturity: 16.89
+      ------
+      Invested money: 9045.00
+      Money in account: 2703.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 16.89
+      Total stock position: 5067.00
+      Total position (money+stock): 7770.00
+   PERIOD #67
+      Spot price at day 1: 17.04
+      ------
+      Covered call is written!
+         Spot price: 17.04
+         Days to maturity: 20
+         Call strike: 17.89
+         Call premium: 0.11
+         Stock purchase price: 16.96
+      ------
+      Spot price at maturity: 15.94
+      ------
+      Invested money: 9045.00
+      Money in account: 2714.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 15.94
+      Total stock position: 4782.00
+      Total position (money+stock): 7496.00
+   PERIOD #68
+      Spot price at day 1: 15.72
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 14.23
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 15.71
+      ------
+      Invested money: 9045.00
+      Money in account: 2719.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 15.71
+      Total stock position: 4713.00
+      Total position (money+stock): 7432.00
+   PERIOD #69
+      Spot price at day 1: 15.79
+      ------
+      Covered call is written!
+         Spot price: 16.17
+         Days to maturity: 16
+         Call strike: 16.98
+         Call premium: 0.08
+         Stock purchase price: 16.96
+      ------
+      Spot price at maturity: 15.54
+      ------
+      Invested money: 9045.00
+      Money in account: 2727.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 15.54
+      Total stock position: 4662.00
+      Total position (money+stock): 7389.00
+   PERIOD #70
+      Spot price at day 1: 15.71
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 14.71
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 16.34
+      ------
+      Invested money: 9045.00
+      Money in account: 2732.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 16.34
+      Total stock position: 4902.00
+      Total position (money+stock): 7634.00
+   PERIOD #71
+      Spot price at day 1: 16.19
+      ------
+      Covered call is written!
+         Spot price: 16.19
+         Days to maturity: 20
+         Call strike: 17.00
+         Call premium: 0.10
+         Stock purchase price: 16.96
+      ------
+      Spot price at maturity: 15.65
+      ------
+      Invested money: 9045.00
+      Money in account: 2742.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 15.65
+      Total stock position: 4695.00
+      Total position (money+stock): 7437.00
+   PERIOD #72
+      Spot price at day 1: 15.36
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 14.55
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 15.82
+      ------
+      Invested money: 9045.00
+      Money in account: 2747.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 15.82
+      Total stock position: 4746.00
+      Total position (money+stock): 7493.00
+   PERIOD #73
+      Spot price at day 1: 15.87
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 14.68
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 15.93
+      ------
+      Invested money: 9045.00
+      Money in account: 2752.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 15.93
+      Total stock position: 4779.00
+      Total position (money+stock): 7531.00
+   PERIOD #74
+      Spot price at day 1: 15.98
+      ------
+      Covered call is written!
+         Spot price: 16.29
+         Days to maturity: 19
+         Call strike: 17.10
+         Call premium: 0.10
+         Stock purchase price: 16.96
+      ------
+      Spot price at maturity: 15.97
+      ------
+      Invested money: 9045.00
+      Money in account: 2762.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.96]
+      Stock price: 15.97
+      Total stock position: 4791.00
+      Total position (money+stock): 7553.00
+   PERIOD #75
+      Spot price at day 1: 16.12
+      ------
+      Covered call is written!
+         Spot price: 16.12
+         Days to maturity: 20
+         Call strike: 16.93
+         Call premium: 0.10
+         Stock purchase price: 16.96
+      ------
+      Spot price at maturity: 17.08
+      ------
+      Call was exercised!
+         Stock sale price: 16.93
+         Stock purchase price: 16.96
+      ------
+      Invested money: 9045.00
+      Money in account: 4465.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 17.08
+      Total stock position: 3416.00
+      Total position (money+stock): 7881.00
+   PERIOD #76
+      Spot price at day 1: 16.89
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 15.79
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 15.94
+      ------
+      Invested money: 9045.00
+      Money in account: 4470.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 15.94
+      Total stock position: 3188.00
+      Total position (money+stock): 7658.00
+   PERIOD #77
+      Spot price at day 1: 16.26
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 15.53
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 16.35
+      ------
+      Invested money: 9045.00
+      Money in account: 4475.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 16.35
+      Total stock position: 3270.00
+      Total position (money+stock): 7745.00
+   PERIOD #78
+      Spot price at day 1: 16.24
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 15.48
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 16.70
+      ------
+      Invested money: 9045.00
+      Money in account: 4480.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 16.70
+      Total stock position: 3340.00
+      Total position (money+stock): 7820.00
+   PERIOD #79
+      Spot price at day 1: 16.77
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 15.53
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 16.64
+      ------
+      Invested money: 9045.00
+      Money in account: 4485.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 16.64
+      Total stock position: 3328.00
+      Total position (money+stock): 7813.00
+   PERIOD #80
+      Spot price at day 1: 16.66
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 16.63
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 17.79
+      ------
+      Invested money: 9045.00
+      Money in account: 4490.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 17.79
+      Total stock position: 3558.00
+      Total position (money+stock): 8048.00
+   PERIOD #81
+      Spot price at day 1: 17.67
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 16.93
+         Put premium: 0.06
+      ------
+      Spot price at maturity: 16.52
+      ------
+      Put was exercised!
+         Stock purchase price: 16.93
+      ------
+      Invested money: 9045.00
+      Money in account: 2803.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 16.93]
+      Stock price: 16.52
+      Total stock position: 4956.00
+      Total position (money+stock): 7759.00
+   PERIOD #82
+      Spot price at day 1: 16.85
+      ------
+      Covered call is written!
+         Spot price: 16.85
+         Days to maturity: 20
+         Call strike: 17.69
+         Call premium: 0.11
+         Stock purchase price: 16.93
+      ------
+      Spot price at maturity: 17.88
+      ------
+      Call was exercised!
+         Stock sale price: 17.69
+         Stock purchase price: 16.93
+      ------
+      Invested money: 9045.00
+      Money in account: 4583.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 17.88
+      Total stock position: 3576.00
+      Total position (money+stock): 8159.00
+   PERIOD #83
+      Spot price at day 1: 17.47
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 15.93
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 16.76
+      ------
+      Invested money: 9045.00
+      Money in account: 4588.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 16.76
+      Total stock position: 3352.00
+      Total position (money+stock): 7940.00
+   PERIOD #84
+      Spot price at day 1: 16.80
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 16.80
+         Put premium: 0.06
+      ------
+      Spot price at maturity: 17.88
+      ------
+      Invested money: 9045.00
+      Money in account: 4594.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 17.88
+      Total stock position: 3576.00
+      Total position (money+stock): 8170.00
+   PERIOD #85
+      Spot price at day 1: 17.96
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 16.44
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 17.12
+      ------
+      Invested money: 9045.00
+      Money in account: 4599.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 17.12
+      Total stock position: 3424.00
+      Total position (money+stock): 8023.00
+   PERIOD #86
+      Spot price at day 1: 16.77
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 15.82
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 15.42
+      ------
+      Put was exercised!
+         Stock purchase price: 15.82
+      ------
+      Invested money: 9045.00
+      Money in account: 3022.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 15.82]
+      Stock price: 15.42
+      Total stock position: 4626.00
+      Total position (money+stock): 7648.00
+   PERIOD #87
+      Spot price at day 1: 15.43
+      ------
+      Covered call is written!
+         Spot price: 15.43
+         Days to maturity: 20
+         Call strike: 16.20
+         Call premium: 0.10
+         Stock purchase price: 15.82
+      ------
+      Spot price at maturity: 14.48
+      ------
+      Invested money: 9045.00
+      Money in account: 3032.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 15.82]
+      Stock price: 14.48
+      Total stock position: 4344.00
+      Total position (money+stock): 7376.00
+   PERIOD #88
+      Spot price at day 1: 14.52
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 14.12
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 14.48
+      ------
+      Invested money: 9045.00
+      Money in account: 3037.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 15.82]
+      Stock price: 14.48
+      Total stock position: 4344.00
+      Total position (money+stock): 7381.00
+   PERIOD #89
+      Spot price at day 1: 14.36
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 13.24
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 14.37
+      ------
+      Invested money: 9045.00
+      Money in account: 3041.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 15.82]
+      Stock price: 14.37
+      Total stock position: 4311.00
+      Total position (money+stock): 7352.00
+   PERIOD #90
+      Spot price at day 1: 14.06
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 13.96
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 14.49
+      ------
+      Invested money: 9045.00
+      Money in account: 3046.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 15.82]
+      Stock price: 14.49
+      Total stock position: 4347.00
+      Total position (money+stock): 7393.00
+   PERIOD #91
+      Spot price at day 1: 14.11
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 13.50
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 15.00
+      ------
+      Invested money: 9045.00
+      Money in account: 3050.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 15.82]
+      Stock price: 15.00
+      Total stock position: 4500.00
+      Total position (money+stock): 7550.00
+   PERIOD #92
+      Spot price at day 1: 14.92
+      ------
+      Covered call is written!
+         Spot price: 15.03
+         Days to maturity: 19
+         Call strike: 15.78
+         Call premium: 0.09
+         Stock purchase price: 15.82
+      ------
+      Spot price at maturity: 15.01
+      ------
+      Invested money: 9045.00
+      Money in account: 3059.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 15.82]
+      Stock price: 15.01
+      Total stock position: 4503.00
+      Total position (money+stock): 7562.00
+   PERIOD #93
+      Spot price at day 1: 14.89
+      ------
+      Covered call is written!
+         Spot price: 15.13
+         Days to maturity: 14
+         Call strike: 15.89
+         Call premium: 0.06
+         Stock purchase price: 15.82
+      ------
+      Spot price at maturity: 16.13
+      ------
+      Call was exercised!
+         Stock sale price: 15.89
+         Stock purchase price: 15.82
+      ------
+      Invested money: 9045.00
+      Money in account: 4654.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 16.13
+      Total stock position: 3226.00
+      Total position (money+stock): 7880.00
+   PERIOD #94
+      Spot price at day 1: 16.06
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 14.96
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 15.32
+      ------
+      Invested money: 9045.00
+      Money in account: 4659.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 15.32
+      Total stock position: 3064.00
+      Total position (money+stock): 7723.00
+   PERIOD #95
+      Spot price at day 1: 15.33
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 13.82
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 14.37
+      ------
+      Invested money: 9045.00
+      Money in account: 4664.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 14.37
+      Total stock position: 2874.00
+      Total position (money+stock): 7538.00
+   PERIOD #96
+      Spot price at day 1: 14.50
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 13.19
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 14.82
+      ------
+      Invested money: 9045.00
+      Money in account: 4668.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 14.82
+      Total stock position: 2964.00
+      Total position (money+stock): 7632.00
+   PERIOD #97
+      Spot price at day 1: 15.10
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 14.33
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 14.58
+      ------
+      Invested money: 9045.00
+      Money in account: 4673.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 14.58
+      Total stock position: 2916.00
+      Total position (money+stock): 7589.00
+   PERIOD #98
+      Spot price at day 1: 14.62
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 14.20
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 16.12
+      ------
+      Invested money: 9045.00
+      Money in account: 4678.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 16.12
+      Total stock position: 3224.00
+      Total position (money+stock): 7902.00
+   PERIOD #99
+      Spot price at day 1: 16.26
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 14.94
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 16.36
+      ------
+      Invested money: 9045.00
+      Money in account: 4683.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 16.36
+      Total stock position: 3272.00
+      Total position (money+stock): 7955.00
+   PERIOD #100
+      Spot price at day 1: 16.36
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 16.32
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 16.95
+      ------
+      Invested money: 9045.00
+      Money in account: 4688.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 16.95
+      Total stock position: 3390.00
+      Total position (money+stock): 8078.00
+   PERIOD #101
+      Spot price at day 1: 16.97
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 15.66
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 16.58
+      ------
+      Invested money: 9045.00
+      Money in account: 4693.00
+      Number of shares: 200
+      Purchase prices: [29.93, 22.79]
+      Stock price: 16.58
+      Total stock position: 3316.00
+      Total position (money+stock): 8009.00
+   PERIOD #102
+      Spot price at day 1: 16.43
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 15.01
+         Put premium: 0.05
+      ------
+      Spot price at maturity: 13.81
+      ------
+      Put was exercised!
+         Stock purchase price: 15.01
+      ------
+      Invested money: 9045.00
+      Money in account: 3197.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 15.01]
+      Stock price: 13.81
+      Total stock position: 4143.00
+      Total position (money+stock): 7340.00
+   PERIOD #103
+      Spot price at day 1: 14.00
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 13.04
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 13.78
+      ------
+      Invested money: 9045.00
+      Money in account: 3201.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 15.01]
+      Stock price: 13.78
+      Total stock position: 4134.00
+      Total position (money+stock): 7335.00
+   PERIOD #104
+      Spot price at day 1: 13.61
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 12.81
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 13.79
+      ------
+      Invested money: 9045.00
+      Money in account: 3205.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 15.01]
+      Stock price: 13.79
+      Total stock position: 4137.00
+      Total position (money+stock): 7342.00
+   PERIOD #105
+      Spot price at day 1: 13.87
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 13.31
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 13.55
+      ------
+      Invested money: 9045.00
+      Money in account: 3209.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 15.01]
+      Stock price: 13.55
+      Total stock position: 4065.00
+      Total position (money+stock): 7274.00
+   PERIOD #106
+      Spot price at day 1: 13.72
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 12.43
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 12.95
+      ------
+      Invested money: 9045.00
+      Money in account: 3213.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 15.01]
+      Stock price: 12.95
+      Total stock position: 3885.00
+      Total position (money+stock): 7098.00
+   PERIOD #107
+      Spot price at day 1: 13.03
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 12.64
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 12.23
+      ------
+      Put was exercised!
+         Stock purchase price: 12.64
+      ------
+      Invested money: 9045.00
+      Money in account: 1953.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 15.01, 12.64]
+      Stock price: 12.23
+      Total stock position: 4892.00
+      Total position (money+stock): 6845.00
+   PERIOD #108
+      Spot price at day 1: 12.28
+      ------
+      Covered call is written!
+         Spot price: 12.28
+         Days to maturity: 20
+         Call strike: 12.89
+         Call premium: 0.08
+         Stock purchase price: 12.64
+      ------
+      Spot price at maturity: 12.25
+      ------
+      Invested money: 9045.00
+      Money in account: 1961.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 15.01, 12.64]
+      Stock price: 12.25
+      Total stock position: 4900.00
+      Total position (money+stock): 6861.00
+   PERIOD #109
+      Spot price at day 1: 12.22
+      ------
+      Covered call is written!
+         Spot price: 12.22
+         Days to maturity: 20
+         Call strike: 12.83
+         Call premium: 0.08
+         Stock purchase price: 12.64
+      ------
+      Spot price at maturity: 12.69
+      ------
+      Invested money: 9045.00
+      Money in account: 1969.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 15.01, 12.64]
+      Stock price: 12.69
+      Total stock position: 5076.00
+      Total position (money+stock): 7045.00
+   PERIOD #110
+      Spot price at day 1: 12.82
+      ------
+      Covered call is written!
+         Spot price: 12.82
+         Days to maturity: 20
+         Call strike: 13.46
+         Call premium: 0.08
+         Stock purchase price: 12.64
+      ------
+      Spot price at maturity: 12.97
+      ------
+      Invested money: 9045.00
+      Money in account: 1977.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 15.01, 12.64]
+      Stock price: 12.97
+      Total stock position: 5188.00
+      Total position (money+stock): 7165.00
+   PERIOD #111
+      Spot price at day 1: 13.04
+      ------
+      Covered call is written!
+         Spot price: 13.04
+         Days to maturity: 20
+         Call strike: 13.69
+         Call premium: 0.08
+         Stock purchase price: 12.64
+      ------
+      Spot price at maturity: 12.91
+      ------
+      Invested money: 9045.00
+      Money in account: 1985.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 15.01, 12.64]
+      Stock price: 12.91
+      Total stock position: 5164.00
+      Total position (money+stock): 7149.00
+   PERIOD #112
+      Spot price at day 1: 13.08
+      ------
+      Covered call is written!
+         Spot price: 13.08
+         Days to maturity: 20
+         Call strike: 13.73
+         Call premium: 0.08
+         Stock purchase price: 12.64
+      ------
+      Spot price at maturity: 11.70
+      ------
+      Invested money: 9045.00
+      Money in account: 1993.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 15.01, 12.64]
+      Stock price: 11.70
+      Total stock position: 4680.00
+      Total position (money+stock): 6673.00
+   PERIOD #113
+      Spot price at day 1: 11.53
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 11.24
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 11.84
+      ------
+      Invested money: 9045.00
+      Money in account: 1997.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 15.01, 12.64]
+      Stock price: 11.84
+      Total stock position: 4736.00
+      Total position (money+stock): 6733.00
+   PERIOD #114
+      Spot price at day 1: 11.75
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 11.17
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 12.07
+      ------
+      Invested money: 9045.00
+      Money in account: 2001.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 15.01, 12.64]
+      Stock price: 12.07
+      Total stock position: 4828.00
+      Total position (money+stock): 6829.00
+   PERIOD #115
+      Spot price at day 1: 12.37
+      ------
+      Covered call is written!
+         Spot price: 12.37
+         Days to maturity: 20
+         Call strike: 12.99
+         Call premium: 0.08
+         Stock purchase price: 12.64
+      ------
+      Spot price at maturity: 12.01
+      ------
+      Invested money: 9045.00
+      Money in account: 2009.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 15.01, 12.64]
+      Stock price: 12.01
+      Total stock position: 4804.00
+      Total position (money+stock): 6813.00
+   PERIOD #116
+      Spot price at day 1: 11.95
+      ------
+      Covered call is written!
+         Spot price: 12.04
+         Days to maturity: 16
+         Call strike: 12.64
+         Call premium: 0.06
+         Stock purchase price: 12.64
+      ------
+      Spot price at maturity: 12.76
+      ------
+      Call was exercised!
+         Stock sale price: 12.64
+         Stock purchase price: 12.64
+      ------
+      Invested money: 9045.00
+      Money in account: 3279.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 15.01]
+      Stock price: 12.76
+      Total stock position: 3828.00
+      Total position (money+stock): 7107.00
+   PERIOD #117
+      Spot price at day 1: 12.65
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 11.88
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 11.17
+      ------
+      Put was exercised!
+         Stock purchase price: 11.88
+      ------
+      Invested money: 9045.00
+      Money in account: 2095.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 15.01, 11.88]
+      Stock price: 11.17
+      Total stock position: 4468.00
+      Total position (money+stock): 6563.00
+   PERIOD #118
+      Spot price at day 1: 11.28
+      ------
+      Covered call is written!
+         Spot price: 11.28
+         Days to maturity: 20
+         Call strike: 11.84
+         Call premium: 0.07
+         Stock purchase price: 11.88
+      ------
+      Spot price at maturity: 12.50
+      ------
+      Call was exercised!
+         Stock sale price: 11.84
+         Stock purchase price: 11.88
+      ------
+      Invested money: 9045.00
+      Money in account: 3286.00
+      Number of shares: 300
+      Purchase prices: [29.93, 22.79, 15.01]
+      Stock price: 12.50
+      Total stock position: 3750.00
+      Total position (money+stock): 7036.00
+   PERIOD #119
+      Spot price at day 1: 12.35
+      ------
+      Cash-secured put is written!
+         Days to maturity: 14
+         Put strike: 11.56
+         Put premium: 0.04
+      ------
+      Spot price at maturity: 11.17
+      ------
+      Put was exercised!
+         Stock purchase price: 11.56
+      ------
+      Invested money: 9045.00
+      Money in account: 2134.00
+      Number of shares: 400
+      Purchase prices: [29.93, 22.79, 15.01, 11.56]
+      Stock price: 11.17
+      Total stock position: 4468.00
+      Total position (money+stock): 6602.00
