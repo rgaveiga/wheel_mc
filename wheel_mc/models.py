@@ -78,7 +78,7 @@ class SimulationData(BaseModel):
         2D Numpy array containing the money in the trading account.
     stock : array
         2D Numpy array containing the number of shares owned by the trader.
-    money_spent : array
+    invested_money : array
         Numpy array containing the money spent by the trader to cover the
         assigned puts at the end of trading paths.
     missed_trades : array
@@ -97,7 +97,7 @@ class SimulationData(BaseModel):
     stock_prices: ndarray = array([])
     money: ndarray = array([])
     stock: ndarray = array([])
-    money_spent: ndarray = array([])
+    invested_money: ndarray = array([])
     missed_trades: ndarray = array([])
     open_calls: ndarray = array([])
     open_puts: ndarray = array([])

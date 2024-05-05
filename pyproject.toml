@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "wheel-mc"
+version = "0.9.1"
+description = "Simulations of the Wheel strategy."
+authors = ["Roberto Gomes, PhD <roberto.veiga@ufabc.edu.br>"]
+license = "GNU"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+Pydantic = "^2.53"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
